@@ -20,5 +20,5 @@ This app allows you to **add, view, and delete tasks** with an easy-to-use **Gra
 
 1. **Clone the repository (or download ZIP):**
    ```bash
-   git clone https://github.com/your-username/TaskManagerGUI.git
-   cd TaskManagerGUI
+   git clone https://github.com/Shahid-Ali/Task_Manager.git
+   cd Task_Manager
